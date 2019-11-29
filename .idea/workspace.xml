@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b10c0be-b0ac-4d50-94b1-8d5d63b89a14" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/block_print.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/block_print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_1_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_1_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/data/playlist_urls_test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/down_yt_playlist.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/down_yt_playlist.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/move_to_proper_directory.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/move_to_proper_directory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/write_details_to_csv.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/write_details_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/1_mini/Download_YT/ytdl_totalsize.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/1_mini/Download_YT/ytdl_totalsize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/git-tutorial/cloned/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/git-tutorial/cloned/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/git-tutorial/cloned/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/git-tutorial/cloned/calc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/git-tutorial/local/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/git-tutorial/local/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorials/git-tutorial/local/calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/tutorials/git-tutorial/local/calc.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tutorials/git-tutorial/cloned" />
+  </component>
+  <component name="ProjectId" id="1UEGY9qOsuUAau6MSTeEJ9pTZ7m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/miniconda3/envs/ds" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b10c0be-b0ac-4d50-94b1-8d5d63b89a14" name="Default Changelist" comment="" />
+      <created>1574914385569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574914385569</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
