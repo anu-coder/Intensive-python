@@ -16,6 +16,7 @@ class Polynomial:
             
         return(res)
     
+    # BUG: Fix for negative numbers shows - +
     @classmethod
     def _get_expr(self, p, c):
         '''
@@ -43,16 +44,15 @@ class Polynomial:
     def __repr__(self):
         s = ''
         n = len(self.cnsts)
-        expr_lst = [0]*n
+        exprs = [0]*n
         
         for i in range(n):
             p = n-i-1
-            expr_lst[i] = self._get_expr(p, self.cnsts[p])
+            exprs[i] = self._get_expr(p, self.cnsts[p])
             
-        
-        expr = ' + '.join(list(filter(lambda x: x != '', expr_lst)))
-        return(expr)
-
+            
+        return(' + '.join(list(filter(lambda x: x != '', exprs))))
+    
 
 if __name__ == "__main__":
     f = Polynomial(5, 0, 2, 1, 3)
