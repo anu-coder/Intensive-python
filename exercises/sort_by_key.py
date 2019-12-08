@@ -17,6 +17,14 @@ lst_of_tup = sorted(zip(lst1, lst2), key=lambda kv: kv[1]**2)
 lst1_n, lst2_n = list(zip(*lst_of_tup))
 print(lst1_n, lst2_n, sep='\n')
 
+# A list of lists by specified index
+lst = [['Rash', 4, 28], ['Varsha', 2, 20], ['Nikhil', 1, 20], ['Akshat', 3, 21]]
+print(sorted(lst, key=lambda x: x[1]))
+print(sorted(lst, key=itemgetter(1)))
+## Sort by multiple keys
+print(sorted(lst, key=itemgetter(2, 0, 1)))
+print(sorted(lst, key=lambda x: (x[2], x[0], x[1])))
+
 # objects
 
 class Employee:
